@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI/MenuPrincipal.uss?fileID=7433441132597879392&amp;guid=3523674d05231df49b7f9ea7d35a484a&amp;type=3#MenuPrincipal" />
+    <engine:VisualElement name="Menu" style="flex-grow: 1;">
+        <engine:Label text="Tarea Unity" name="Titulo" class="titulo" style="color: rgb(255, 255, 255); -unity-font-style: bold; -unity-text-align: upper-center; font-size: 90px; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); top: 50px;" />
+    </engine:VisualElement>
+</engine:UXML>

@@ -1,0 +1,6 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/Botonregreso.uss?fileID=7433441132597879392&amp;guid=a34111d93aafea144a2b3b5c6830268c&amp;type=3#Botonregreso" />
+    <engine:VisualElement name="menu" style="flex-grow: 1;">
+        <engine:Button text="Regreso" name="Regreso" style="width: 15%; height: 10%; color: rgb(245, 244, 244); -unity-font-style: bold; font-size: 30px; background-color: rgba(76, 76, 76, 0); background-image: url(&quot;project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/Button%206/5.png?fileID=2800000&amp;guid=2ddc0b0f8f3b5fa47965b9c73f84baf4&amp;type=3#5&quot;); border-left-color: rgba(74, 36, 36, 0); border-right-color: rgba(74, 36, 36, 0); border-top-color: rgba(74, 36, 36, 0); border-bottom-color: rgba(74, 36, 36, 0); bottom: auto; top: 730px;" />
+    </engine:VisualElement>
+</engine:UXML>

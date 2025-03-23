@@ -1,0 +1,7 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <engine:VisualElement name="menu" style="flex-grow: 1;">
+        <engine:Button name="Regreso3" style="border-left-color: rgba(56, 56, 56, 0); border-right-color: rgba(56, 56, 56, 0); border-top-color: rgba(56, 56, 56, 0); border-bottom-color: rgba(56, 56, 56, 0); background-color: rgba(55, 55, 55, 0); background-image: url(&quot;project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/gold/CLOSE-1.png?fileID=2800000&amp;guid=c0b6c38e965c69c4baaec76c33e68cf3&amp;type=3#CLOSE-1&quot;); width: 5%; height: 5%; align-self: flex-end;" />
+        <engine:Label text="Creditos" name="Titulo" style="font-size: 150px; -unity-font-definition: url(&quot;project://database/Library/unity%20default%20resources?fileID=10102&amp;guid=0000000000000000e000000000000000&amp;type=0#LegacyRuntime&quot;); color: rgb(255, 255, 255); -unity-text-align: upper-center; top: 70px;" />
+        <engine:Label text="Label" name="Texto" />
+    </engine:VisualElement>
+</engine:UXML>

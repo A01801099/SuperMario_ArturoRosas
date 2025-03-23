@@ -1,0 +1,11 @@
+<engine:UXML xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:engine="UnityEngine.UIElements" xmlns:editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <Style src="project://database/Assets/UI%20Toolkit/MainMenu.uss?fileID=7433441132597879392&amp;guid=aa55cf3bf0ee39c468a9c3ffa33726e1&amp;type=3#MainMenu" />
+    <engine:VisualElement name="menu" style="flex-grow: 1;">
+        <engine:Label text="Tarea Unity" class="titulo" style="-unity-text-align: upper-center; font-size: 90px; color: rgb(240, 227, 227); -unity-font-style: bold; top: 90px;" />
+        <engine:VisualElement name="Botones" style="flex-grow: 1; justify-content: flex-start; align-items: center; width: 30%; height: 30%; align-self: center;">
+            <engine:Label text="What is Lorem Ipsum?&#10;&#10;Lorem ipsum dolor sit amet, consectetur &#10;adipiscing elit. Sed do eiusmod tempor&#10; incididunt ut labore et dolore magna aliqua. &#10;Ut enim ad minim veniam, quis nostrud &#10;exercitation ullamco laboris &#10;nisi ut aliquip ex ea commodo consequat.&#10; cepteur sint occaecat cupidatat non proident, &#10;sunt in culpa qui officia deserunt mollit" name="Texto" style="background-color: rgba(134, 160, 188, 0); font-size: 40px; color: rgb(255, 250, 250); -unity-font-style: bold; align-self: center; -unity-text-align: upper-center; top: 150px; height: 50%; width: 40%;" />
+            <engine:Label text="Arturo Rosas Osorio A01801099" name="Nombre" style="color: rgb(247, 240, 240); -unity-font-style: bold; font-size: 50px; align-self: flex-end; align-content: auto; -unity-text-align: middle-center; top: 300px; white-space: pre; left: 500px;" />
+            <engine:Button name="Regreso2" style="background-image: url(&quot;project://database/Assets/Saurabh_Studio/UI%20button%20and%20hallowing%20element%20pack%205/gold/CLOSE-1.png?fileID=2800000&amp;guid=c0b6c38e965c69c4baaec76c33e68cf3&amp;type=3#CLOSE-1&quot;); background-color: rgba(55, 55, 55, 0); height: 122px; width: 161px; left: 520px; bottom: 430px;" />
+        </engine:VisualElement>
+    </engine:VisualElement>
+</engine:UXML>
